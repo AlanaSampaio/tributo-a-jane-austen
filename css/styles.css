@@ -1,0 +1,77 @@
+html {
+    font-family: Helvetica;
+    background-color: #FFFFFF;
+}
+
+.container {
+    max-width: 1200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px;
+    margin: 50px;
+    background-color: #a9d7fc;
+    border-radius: 50px;
+}
+
+/* Cabeçalho */
+
+.cabecalho {
+    text-align: center;
+}
+
+.titulo-principal {
+    font-size: 40px;
+}
+
+.paragrafo-principal {
+    font-style: italic;
+}
+
+/* Corpo do site */
+
+.img-principal {
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+/* Biografia principal*/
+
+.biografia-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 2px dashed #058dfa;
+    border-bottom: 2px dashed #058dfa;
+}
+
+/* Obras */
+.titulo-secundario {
+    padding: 30px;
+}
+
+.titulo-terciario {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.legenda {
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+}
+
+.img-secundaria {
+    text-align: center;
+}
+
+.obras-container {
+    padding-bottom: 50px;
+}
+
+/* Saiba mais */
+
+.saiba-mais{
+    font-style: italic;
+}
